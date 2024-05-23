@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T17:08:40 IST" name="Suite" finished-at="2024-05-21T17:09:04 IST" duration-ms="24467">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrganizationTest.CreateOrganizationTest()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" name="CreateOrganizationTest" class="com.camcast.crm.orgtest.CreateOrganizationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-05-21T17:08:40 IST" name="Test" finished-at="2024-05-21T17:09:04 IST" duration-ms="24467">
+      <class name="com.camcast.crm.orgtest.CreateOrganizationTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:08:40 IST" name="configBS" finished-at="2024-05-21T17:08:40 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:08:40 IST" name="configBC" finished-at="2024-05-21T17:08:43 IST" duration-ms="3160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:08:43 IST" name="configBM" finished-at="2024-05-21T17:08:52 IST" duration-ms="8921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CreateOrganizationTest()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:08:52 IST" name="CreateOrganizationTest" finished-at="2024-05-21T17:09:03 IST" duration-ms="10633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrganizationTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:09:03 IST" name="configAM" finished-at="2024-05-21T17:09:04 IST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:09:04 IST" name="configAC" finished-at="2024-05-21T17:09:04 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.camcast.crm.orgtest.CreateOrganizationTest@128d2484]" started-at="2024-05-21T17:09:04 IST" name="configAS" finished-at="2024-05-21T17:09:05 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.camcast.crm.orgtest.CreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
