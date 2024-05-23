@@ -19,6 +19,9 @@ public class HomePage {
 		private WebElement orgLink;
 		@FindBy(linkText="Contacts")
 		private WebElement contactlnk;
+		@FindBy(linkText="Products")//2:obj creation
+		private WebElement productLink;
+		
 		@FindBy(linkText= "Campaigns")
 		private WebElement campaignlnk;
 		@FindBy(linkText= "More")
@@ -36,6 +39,11 @@ public class HomePage {
 
 		public WebElement getContactlnk() {
 			return contactlnk;
+		}
+		
+
+		public WebElement getProductLink() {
+			return productLink;
 		}
 
 		public WebElement getCampaignlnk() {
